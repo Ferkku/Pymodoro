@@ -6,7 +6,7 @@ import datetime
 import pyglet
 
 # For testing
-SLEEP_TIME = 0.1
+SLEEP_TIME = 1
 
 DEFAULT_PHASE_ENDED_SOUND = pyglet.media.StaticSource(
     pyglet.media.load("sounds/default.wav"))
