@@ -31,8 +31,10 @@ Running without options sets the values as defined in config.ini
 Custom sounds, keybindings, default settings and other options can be changed by editing the config.ini file.
 
 
-To set custom sounds, simply change the path for the corresponding option (can be absolute or relative)
+To set custom sounds, simply change the path for the corresponding option (can be absolute or relative).
 * For example: focusendsound = D:/sounds/custom_sound.mp3
 
 
 If you break something in the config or want to reset to defaults, you can run the resetConfig.py
+
+(NOTE: some audio file formats may not work!)
